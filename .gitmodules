@@ -1,0 +1,3 @@
+[submodule "libepee"]
+	path = libepee
+	url = https://github.com/reconf-design-hw-aes/libepee.git
